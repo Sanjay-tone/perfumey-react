@@ -1,0 +1,1 @@
+Developed a single-page application (SPA) for Perfumey, an online perfume store, using React.js. The project features a dynamic and interactive user interface, providing users with a seamless shopping experience.
